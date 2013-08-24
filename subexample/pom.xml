@@ -7,14 +7,15 @@
   </parent>
   <artifactId>subexample</artifactId>
   <description>a submodule example </description>
-  <dependencies>
-   <dependency>
+  <!-- <dependencies>
+       	  <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.8.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
 <build>
     <plugins>
       <plugin>
@@ -24,4 +25,5 @@
       </plugin>
     </plugins>
   </build>
+  --> 
 </project>
